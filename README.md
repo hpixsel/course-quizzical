@@ -7,3 +7,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - nanoid
 - interweave
 - react-confetti
+
+Link: [https://adamusdev-quizzical.netlify.app/]('https://adamusdev-quizzical.netlify.app/)
