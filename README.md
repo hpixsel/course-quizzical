@@ -8,4 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - interweave
 - react-confetti
 
-Link: [https://adamusdev-quizzical.netlify.app/] (https://adamusdev-quizzical.netlify.app/)
+Link: [https://adamusdev-quizzical.netlify.app/](https://adamusdev-quizzical.netlify.app/){:target="_blank"}
